@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_hint">Enter add amount</string>
+    <string name="edit_hint">Enter new score</string>
+    <string name="subtract_hint">Enter subtract amount</string>
+    <string name="action_remove_teams">Remove</string>
+    <string name="action_sort_teams">Sort</string>
+    <string name="action_reset">Reset All</string>
+    <string name="action_clear">Clear Teams</string>
+</resources>

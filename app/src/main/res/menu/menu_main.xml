@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.matthewsun.scorecounter.MainActivity">
+
+    <item
+        android:id="@+id/remove_teams"
+        android:title="@string/action_remove_teams" />
+
+    <item
+        android:id="@+id/sort_teams"
+        android:title="@string/action_sort_teams"/>
+
+    <item
+        android:id="@+id/reset_all"
+        android:title="@string/action_reset"/>
+
+    <item
+        android:id="@+id/clear_all"
+        android:title="@string/action_clear"/>
+
+</menu>
